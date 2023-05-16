@@ -17,7 +17,7 @@
 
 - TensorFlow 2.4 
 
-- CIFAR-100
+- CIFAR-10
 
 ---
 
